@@ -1,7 +1,7 @@
 Calculate solutions of congruence equation Ax ≡ B (mod M)
 
 # Build
-You can build the program with [Meson](https://mesonbuild.com/). First, setup the project with the command:
+You can build the program with [Meson](https://mesonbuild.com/). First, setup the project with:
 ```
 $ meson setup builddir
 $ cd builddir
