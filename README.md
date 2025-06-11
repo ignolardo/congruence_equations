@@ -21,11 +21,15 @@ They correspond to the equation: Ax ≡ B (mod M).
 
 So this program is use like this:
 
-`congruence A B M N`
+```
+congruence A B M N
+```
 
 'N' is the number of solutions you want to get, so for example, if you want 5 solutions of 34x ≡ 5 (mod 53), the command will be:
 
-`congruence 34 5 53 5`
+```
+congruence 34 5 53 5
+```
 
 The output is:
 ```
